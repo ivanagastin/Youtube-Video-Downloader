@@ -1,4 +1,4 @@
-# Antigravity YouTube Video Downloader
+#YouTube Video Downloader
 
 A modern, sleek, and high-performance YouTube video downloader built in Python using **CustomTkinter** for the user interface and **yt-dlp** as the extraction engine.
 
